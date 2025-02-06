@@ -1,0 +1,27 @@
+{
+  "name": "ignite-shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@stitches/react": "^1.2.8",
+    "@types/node": "^22.10.10",
+    "@types/typescript": "^0.4.29",
+    "axios": "^1.7.9",
+    "keen-slider": "^6.8.6",
+    "next": "15.1.6",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "stripe": "^17.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.8",
+    "eslint": "9.19.0",
+    "eslint-config-next": "15.1.6"
+  }
+}
